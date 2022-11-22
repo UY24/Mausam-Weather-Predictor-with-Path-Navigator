@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 19 13:54:42 2021
 
-@author: smurk
+@author: UY24
 """
 
 def strconvert(str1):
